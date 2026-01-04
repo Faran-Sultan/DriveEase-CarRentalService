@@ -1,0 +1,27 @@
+DriveEase Car-Rental-Service
+AICT Lab Semester Project
+
+Group Contributions:
+
+1. M. Samil (2025-GA-01)
+   - Video animation creation
+   - Project demo and LinkedIn video preparation
+
+2. Faran Ahmed Sultan (2025-GA-15)
+   - HTML page development and content structuring
+   - CSS styling and layout design
+   - GitHub repository management and README documentation
+
+3. Muhammad Ahmad Mustafa (2025-GA-39)
+   - Excel data organization and formatting
+   - Support in calculations and chart preparation
+   - Cross-checking data consistency with website content
+
+4. Adina Tanvir (2025-GA-47)
+   - PowerPoint presentation design
+   - Slide structure and visual formatting
+
+5. Maham Javed (2025-GA-49)
+   - Project documentation (Word report)
+   - Lead contributor for Excel data preparation and analysis
+   - Formula creation and chart development
