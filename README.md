@@ -18,14 +18,11 @@ https://faran-sultan.github.io/DriveEase-CarRentalService/index.html
 ## Project Deliverables
 
 - **Project Report (Word):**  
-  https://docs.google.com/document/d/1jld_-anmTG5A8udjhWzcyXBu9hcSH3Mp/edit?usp=sharing&ouid=116430302587984809825&rtpof=true&sd=true
-
+  /docs/DriveEase_Report.docx
 - **Data & Analysis (Excel):**  
-  https://docs.google.com/spreadsheets/d/1zgLAyNJp84T8fcquiwtkTQjMNo9cwxJd/edit?usp=sharing&ouid=116430302587984809825&rtpof=true&sd=true
-
+  /docs/DriveEase_Data.xlsx
 - **Presentation Slides (PowerPoint):**  
-  https://docs.google.com/presentation/d/1GblDD8VbVfcK1fsjB_04bW-urwD2uB32/edit?usp=drive_link&ouid=116430302587984809825&rtpof=true&sd=true
-
+  /docs/DriveEase_Presentation.pptx
 - **Project Video (MP4):**  
 
 
